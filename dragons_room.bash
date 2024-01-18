@@ -33,11 +33,11 @@ echo Goodbye!
 fi
 else
 echo "(1) Use your sword!"
-echo "(2) Oh... darnit."
+echo "(2) Oh... Maybe I should have been nicer to the old man."
 read lulz
 if [ $lulz == 1 ]; then
 echo  
-echo Nope.
+echo What sword? You insulted the wizard!
 echo  
 sleep 1
 echo The dragon eats you.
@@ -58,7 +58,10 @@ echo Thanks for playing! Byeeee
 fi
 elif [ $lulz == 2 ]; then
 echo  
-echo The dragon eats you.
+echo Yep, you should have.
+sleep 1
+echo  
+echo With no sword in-hand, the dragon eats you.
 echo  
 sleep 1
 echo The end.
