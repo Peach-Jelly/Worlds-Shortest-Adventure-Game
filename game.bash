@@ -1,3 +1,5 @@
+# Run this file to start the game!
+
 echo  
 echo "~~ Welcome to the world's shortest adventure game. ~~"
 echo  
