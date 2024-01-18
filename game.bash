@@ -11,7 +11,7 @@ echo The old wizard extends the hilt of a sword toward you...
 echo  
 sleep 1.3
 echo "(1) Take it."
-echo "(2) Tell the old man to piss off."
+echo "(2) Tell the old man to take a hike."
 while [ "$failed_input" != "pass" ];
 do
 read sword_deci
@@ -34,7 +34,7 @@ sleep 1.7
 echo He then vanishes in a puff of orange smoke...
 echo  
 sleep 1.7
-echo '"This place blows," you say as you leave the entry '
+echo '"This place is lame," you say as you leave the entry '
 echo 'and make your way down the hall...'
 echo  
 sleep 1
