@@ -33,7 +33,7 @@ echo Goodbye!
 fi
 else
 echo "(1) Use your sword!"
-echo "(2) Oh... shit."
+echo "(2) Oh... darnit."
 read lulz
 if [ $lulz == 1 ]; then
 echo  
