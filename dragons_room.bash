@@ -1,4 +1,4 @@
-
+# Run game.bash instead to start the game, not this one!
 
 #Dragon's room
 sleep 1.9
